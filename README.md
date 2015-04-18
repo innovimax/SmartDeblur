@@ -1,4 +1,4 @@
-SmartDeblur
+SmartDeblur 1.27
 ===========
 
 SmartDeblur is a tool for restoring defocused and blurred images.
@@ -13,6 +13,11 @@ SmartDeblur uses the FFTW library to provide its fast fourier tranformation impl
 <br/>See <a href="http://fftw.org/">fftw.org</a> for details.
 All source files are under the GPL v3 license.<br/>
 <p>Author: <b>Vladimir Yuzhikov</b> (yuvladimir@gmail.com)
+
+Detailed description of algorithms and methods you can see at my articles:<br/>
+<a href="http://yuzhikov.com/articles/BlurredImagesRestoration1.htm">Restoration of defocused and blurred images (part 1) - Theory</a><br/>
+<a href="http://yuzhikov.com/articles/BlurredImagesRestoration2.htm">Restoration of defocused and blurred images (part 2) - Practice</a><br/>
+
 
 Sceenshots
 ==========
@@ -35,8 +40,8 @@ Features
 
 Download
 ========
-Version 1.27: 
-[SmartDeblur-1.27-win.zip](https://github.com/downloads/Y-Vladimir/SmartDeblur/SmartDeblur-1.27-win.zip)
+Version 1.27: <br/>
+[SmartDeblur-1.27-win.zip](https://github.com/downloads/Y-Vladimir/SmartDeblur/SmartDeblur-1.27-win.zip)<br/>
 [SmartDeblur-1.27-mac.dmg](https://github.com/downloads/gibbonweb/SmartDeblur/SmartDeblur-1.27-mac.dmg)
 
 License
